@@ -40,11 +40,11 @@ npm install
 ng serve
 
 The working folders are in frontend are:
-AngularTest/frontend/src/app/pages/blog
-AngularTest/frontend/src/app/pages/auth
-src/app/pages/service/auth.service.ts
-src/app/pages/service/blog.service.ts
-src/app/layout/component/top-bar
+- AngularTest/frontend/src/app/pages/blog
+- AngularTest/frontend/src/app/pages/auth
+- src/app/pages/service/auth.service.ts
+- src/app/pages/service/blog.service.ts
+- src/app/layout/component/top-bar
 
 
 # Authentication :
